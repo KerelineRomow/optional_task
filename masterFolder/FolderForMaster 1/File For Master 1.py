@@ -1,1 +1,1 @@
-print("Welcome to Master (Изменения для конфлика")
+print("Welcome to Master (Изменения для конфлика 1")
