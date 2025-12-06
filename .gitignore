@@ -1,3 +1,4 @@
 *.exe
 *.tmp
 *.obj
+.DS_Store
